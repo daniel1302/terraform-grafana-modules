@@ -9,7 +9,7 @@ There are two modules for monitor ECS tasks:
 
 ## Variables
 
-** grafana-ecs-tasks-dashboard **
+**grafana-ecs-tasks-dashboard**
 
 - folder_id: id of the folder where the dashboard is created in
 - name: dashboard name
