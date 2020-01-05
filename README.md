@@ -1,2 +1,8 @@
-# terraform-grafana-modules
-Set of grafana modules used for ECS monitoring
+# Terraform grafana modules
+
+## ECS monitoring 
+
+There are two modules for monitor ECS tasks:
+
+- CPU & Memory usage
+- Network & Disk usage
